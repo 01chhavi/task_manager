@@ -19,6 +19,6 @@ A simple task management app to add, edit, and delete tasks, built using **HTML*
 
 ## Author
 Chhavi Tiwari 
-https://github.com/01chhavi/task_manager
+https://github.com/01chhavi
 
 
